@@ -1,0 +1,1 @@
+this file serves the purpose to show that the programme avoid files that don't have the .dat extension
